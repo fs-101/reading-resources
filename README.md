@@ -9,3 +9,4 @@
 * https://www.atlassian.com/git/tutorials "Atlassian Git Tutorial"
 * https://dbdiagram.io/home "DATABASE DESIGNING"
 * https://guides.github.com/features/mastering-markdown/ "Mastering Markdown"
+* http://www.lihaoyi.com/post/WhatsinaBuildTool.html "What's in a Build Tool?"
