@@ -13,3 +13,5 @@
 * https://www.baeldung.com/maven "Maven Tutorial"
 * https://www.baeldung.com/maven-wrapper "Maven Wrapper"
 * https://www.youtube.com/watch?v=XcFotGcQPlM "Gradle Summit 2013"
+* https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/ "Lesson for Software Development"
+* https://product.hubspot.com/blog/practical-advice-for-new-software-engineers "Advice for Software Engineers"
